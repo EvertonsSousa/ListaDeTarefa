@@ -1,0 +1,33 @@
+body{
+    background-color: #1c1c1c;
+    color: #ffffff;
+    font-family: monospace;
+    padding: 24px;
+}
+
+.title{
+    font-size: 48px;
+    color: #00ff7f;
+}
+
+.item-list{
+    margin-bottom: 15px;
+    font-size: 23px;
+}
+
+input{
+    height: 45px;
+    background-color: transparent;
+    border-color: #00ff7f;
+    border-radius: 4px;
+    color: #00ff7f;
+}
+
+.task-button{
+    font-size: 16px;
+    padding: 15px;
+    border-width: 0px;
+    border-radius: 5px;
+    background-color: #0d7a43;
+    color: white;
+}
